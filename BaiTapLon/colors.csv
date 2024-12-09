@@ -1,0 +1,33 @@
+ColorName,H,S,V
+Red,0,100,100
+Light Red,0,100,150
+Dark Red,0,100,50
+Orange,15,100,100
+Light Orange,15,100,150
+Dark Orange,15,100,50
+Yellow,30,100,100
+Light Yellow,30,100,150
+Dark Yellow,30,100,50
+Green,60,100,100
+Light Green,60,100,150
+Dark Green,60,100,50
+Cyan,90,100,100
+Light Cyan,90,100,150
+Dark Cyan,90,100,50
+Blue,120,100,100
+Light Blue,120,100,150
+Dark Blue,120,100,50
+Violet,150,100,100
+Light Violet,150,100,150
+Dark Violet,150,100,50
+Pink,160,100,100
+Light Pink,160,100,150
+Dark Pink,160,100,50
+Brown,10,70,70
+Light Brown,10,70,100
+Dark Brown,10,70,50
+Gray,0,0,50
+Light Gray,0,0,75
+Dark Gray,0,0,25
+White,0,0,100
+Black,0,0,0
